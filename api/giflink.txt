@@ -1,1 +1,1 @@
-tenor-ten-beige.vercel.app/api/image
+tenor-ten-beige.vercel.app/api/gifimspa
